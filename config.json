@@ -122,6 +122,12 @@
                 "name": "파츠픽츄",
                 "url": "https://smartstore.naver.com/artgun",
                 "tags": [ "파츠", "소모품" ]
+            },
+            {
+                "icon": "http://gsmc-triangle.com/data/common/logo_img",
+                "name": "GSMC",
+                "url": "http://gsmc-triangle.com/",
+                "tags": [ "소염기", "파츠" ]
             }
         ]
     },
@@ -170,12 +176,6 @@
                 "name": "뱀병장 인더스트리",
                 "url": "",
                 "tags": [ "파츠" ]
-            },
-            {
-                "icon": null,
-                "name": "GSMC",
-                "url": "",
-                "tags": [ "소염기", "파츠" ]
             }
         ]
     }
