@@ -177,7 +177,30 @@
         "id": "import",
         "title": "해외직구",
         "items": [
-
+            {
+                "icon": "https://kicbbgun.com.tw/en/images/logo.svg",
+                "name": "KIC Airsoft",
+                "url": "https://kicbbgun.com.tw/en/",
+                "tags": ["대만"]
+            },
+            {
+                "icon": "https://ast-gun.airsofttaiwan.com/catalog/view/theme/site1/img/logo.png",
+                "name": "Airsoft Taiwan (AST)",
+                "url": "https://ast-gun.airsofttaiwan.com/",
+                "tags": ["대만"]
+            },
+            {
+                "icon": "https://orga-airsoft.com/user_data/packages/20121210/img/common/logo.gif",
+                "name": "ORGA AIRSOFT",
+                "url": "https://orga-airsoft.com/",
+                "tags": ["일본"]
+            },
+            {
+                "icon": "https://cdn.shopify.com/s/files/1/0104/6668/9105/files/wgc_news_logo_3_320x.gif",
+                "name": "WGC SHOP",
+                "url": "https://www.wgcshop.com/",
+                "tags": ["홍콩"]
+            }
         ]
     }
 ]
