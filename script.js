@@ -1,6 +1,19 @@
 (function () {
     const $  = document.querySelector.bind(document);
-    
+
+    // https://stackoverflow.com/questions/2450954
+    Array.prototype.randomize = function () {
+        const length = this.length;
+        
+        for (let i = 0; i < length; ++i) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [this[i], this[j]] = [this[j], this[i]];
+        }
+
+        return this;
+    };
+
+
     const items = [];
     
     let tags = [];
@@ -12,7 +25,9 @@
 
     const refreshView = function () {
         $(".items").innerHTML = "";
-        currentShowingItems.forEach(i => {
+        currentShowingItems
+            .randomize()
+            .forEach(i => {
             const it = document.createElement("div");
             it.className = "item-block";
             it.dataset.url = i.url;
