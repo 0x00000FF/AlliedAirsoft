@@ -139,31 +139,31 @@
                 "icon": null,
                 "name": "브이텍레인지",
                 "url": "https://www.instagram.com/vtac_range/",
-                "tags": [ "대전" ]
+                "tags": [ "파킨", "대전" ]
             },
             {
                 "icon": null,
                 "name": "THEBASE",
                 "url": "",
-                "tags": [ "김포" ]
+                "tags": [ "필드", "김포" ]
             },
             {
                 "icon": null,
                 "name": "CAMP DELTA",
                 "url": "",
-                "tags": [ "대전" ]
+                "tags": [ "필드", "대전" ]
             },
             {
                 "icon": null,
                 "name": "태풍필드",
                 "url": "",
-                "tags": [ "광양" ]
+                "tags": [ "필드", "광양" ]
             },
             {
                 "icon": null,
                 "name": "코만도",
                 "url": "",
-                "tags": [ "대전" ]
+                "tags": [ "필드", "대전" ]
             }
         ]
     },
