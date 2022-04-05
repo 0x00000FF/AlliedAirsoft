@@ -91,6 +91,13 @@ main .items {
     overflow: hidden;
 
     cursor: pointer;
+
+    transition: .1s;
+}
+
+.item-block:hover {
+    background: #ccc;
+    transition: .1s;
 }
 
 .item-block .item-icon {
