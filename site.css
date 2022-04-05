@@ -26,7 +26,16 @@ header {
 }
 
 header .branding {
+    display: flex;
     margin-right: auto;
+}
+
+header .branding input {
+    margin-left: 20px;
+    width: 200px;
+    border-radius: 10px;
+    border: 1px solid #aaa;
+    padding: 0 10px 0 30px;
 }
 
 header .category {
@@ -40,6 +49,16 @@ header .category li {
     margin: 0 5px;
     border: 1px solid #000;
     border-radius: 10px;
+    cursor: pointer;
+}
+
+header .category li:hover {
+    background-color: #ccc;
+}
+
+header .category li:active {
+    background-color: #888;
+    color: #fff;
 }
 
 main .tags {
@@ -136,7 +155,18 @@ main .items {
     }
 
     header .branding {
+        flex-direction: column;
+        margin: auto;
+    }
+
+    header .branding h2 {
         margin: 10px 0;
         text-align: center;
+    }
+
+    header .branding input {
+        margin-bottom: 10px;
+        padding: 10px 10px 10px 30px;
+        width: auto;
     }
 }

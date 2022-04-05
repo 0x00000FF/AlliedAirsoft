@@ -19,8 +19,8 @@
     let tags = [];
     let currentShowingItems = [];
     
-    const onCategoryFilterAppled = function (ev) {
-        console.log(ev);
+    const onCategoryFilterToggle = function (ev) {
+        alert("곧 지원됩니다!");
     };
 
     const refreshView = function () {
@@ -77,9 +77,9 @@
             
             li.dataset.id = category.id;
             li.innerText = category.title;
-            li.onclick = onCategoryFilterAppled;
+            li.onclick = onCategoryFilterToggle;
 
-            // $(".category").append(li);
+            $(".category").append(li);
 
             category.items.forEach(item => items.push(item));
         });
