@@ -92,12 +92,16 @@
         $(".loading-overlay").dataset.hidden = true;
     }
 
-    window.addEventListener("load", function () {
+    const reloadItems = function () {
         const xhr = new XMLHttpRequest();
 
         xhr.onload = () => completeLoad(xhr.responseText);
         xhr.open("GET", "config.json");
 
         xhr.send();
+    };
+
+    window.addEventListener("load", function () {
+        reloadItems();
     });
 })();
