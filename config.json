@@ -200,6 +200,12 @@
                 "name": "WGC SHOP",
                 "url": "https://www.wgcshop.com/",
                 "tags": ["홍콩"]
+            },
+            {
+                "icon": "https://scontent.ficn2-2.fna.fbcdn.net/v/t1.6435-9/117110674_630975550881070_977298623269787242_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dc12JcWJO_gAX93R2id&_nc_ht=scontent.ficn2-2.fna&oh=00_AT-Kn6KhuiC9lWo7_e7da8UnpdwOYg_fQS8Jkgw0huyVAg&oe=627170E0",
+                "name": "RedWin Optics",
+                "url": "https://ko.aliexpress.com/store/910369058",
+                "tags": ["중국", "광학"]
             }
         ]
     }
