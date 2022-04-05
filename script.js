@@ -38,7 +38,7 @@
 
             const img = document.createElement("img");
             img.className = "item-icon";
-            img.src = i.icon ?? "img/mullu.jpg";
+            img.src = i.icon ?? "res/mullu.jpg";
 
             const itIn = document.createElement("div");
             itIn.className = "item-description";
