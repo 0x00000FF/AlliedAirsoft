@@ -66,7 +66,7 @@
             {
                 "icon": null,
                 "name": "PINKBOZI",
-                "url": null,
+                "url": "",
                 "tags": [ "오카", "총기", "파츠", "광학", "오리" ]
             },
             {
@@ -144,25 +144,25 @@
             {
                 "icon": null,
                 "name": "THEBASE",
-                "url": "",
+                "url": "https://cafe.naver.com/thebaseairsoft",
                 "tags": [ "필드", "김포" ]
             },
             {
                 "icon": null,
                 "name": "CAMP DELTA",
-                "url": "",
+                "url": "https://www.instagram.com/camp.delta_korea/",
                 "tags": [ "필드", "대전" ]
             },
             {
                 "icon": null,
                 "name": "태풍필드",
-                "url": "",
+                "url": "https://cafe.naver.com/typoon7740",
                 "tags": [ "필드", "광양" ]
             },
             {
                 "icon": null,
                 "name": "코만도",
-                "url": "",
+                "url": "https://www.instagram.com/kommando_park/",
                 "tags": [ "필드", "대전" ]
             }
         ]
