@@ -107,6 +107,20 @@ main .items {
     content: '#';
 }
 
+.attributes {
+    padding: 30px 10px;
+    background: #aaa;
+    color: #fff;
+}
+
+.attributes span {
+    margin-right: 15px;
+}
+
+.attributes a {
+    text-decoration: none;
+}
+
 @media screen and (min-width: 1300px) {
     .container {
         width: 1300px;
