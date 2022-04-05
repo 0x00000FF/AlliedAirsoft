@@ -128,6 +128,12 @@
                 "name": "GSMC",
                 "url": "http://gsmc-triangle.com/",
                 "tags": [ "소염기", "파츠" ]
+            },
+            {
+                "icon": "https://shop-phinf.pstatic.net/20211019_95/1634602622023XRiBs_JPEG/35738405534311036_463160368.jpg?type=m120",
+                "name": "뱀병장 인더스트리",
+                "url": "https://smartstore.naver.com/solidsnake",
+                "tags": [ "파츠", "공임" ]
             }
         ]
     },
@@ -167,16 +173,4 @@
             }
         ]
     },
-    {
-        "id": "outsourcing",
-        "title": "공임",
-        "items": [
-            {
-                "icon": null,
-                "name": "뱀병장 인더스트리",
-                "url": "",
-                "tags": [ "파츠" ]
-            }
-        ]
-    }
 ]
