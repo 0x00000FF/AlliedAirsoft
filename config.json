@@ -4,12 +4,6 @@
         "title": "상점",
         "items": [
             {
-                "icon": "https://shop-phinf.pstatic.net/20211112_74/1636710578388cuagz_JPEG/37846474117765619_315521186.jpg?type=m120",
-                "name": "대신장비샵",
-                "url": "https://smartstore.naver.com/dashin_dot_dhop",
-                "tags": [ "광학" ]
-            },
-            {
                 "icon": "https://shop-phinf.pstatic.net/20211106_206/1636185782461A3gQ8_PNG/37321566176024108_480498146.png?type=m120",
                 "name": "BME Airsoft",
                 "url": "https://bmeairsoft.com/",
