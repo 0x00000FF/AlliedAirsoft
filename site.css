@@ -34,7 +34,7 @@ header .branding input {
     width: 200px;
     border-radius: 10px;
     border: 1px solid #aaa;
-    padding: 0 10px 0 30px;
+    padding: 0 10px 0 10px;
 }
 
 header .category {

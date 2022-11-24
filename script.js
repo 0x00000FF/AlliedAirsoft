@@ -16,17 +16,39 @@
 
     const items = [];
     
+    let filterList = [];
+    let searchQuery = "";
+
     let tags = [];
     let currentShowingItems = [];
     
     const onCategoryFilterToggle = function (ev) {
-        alert("곧 지원됩니다!");
+        const chosen = ev.target;
+        const category = chosen.dataset.id
+
+        if (filterList.includes(category)) {
+            chosen.style.backgroundColor = "#ffffff";
+            filterList = [...filterList.filter(f => f !== category)];
+        } else {
+            chosen.style.backgroundColor = "#cccccc";
+            filterList.push(category);
+        }
+
+        refreshView();
+    };
+
+    const searchCallback = function (ev) {
+        searchQuery = ev.target.value;
+        refreshView();
     };
 
     const refreshView = function () {
         $(".items").innerHTML = "";
+        currentShowingItems = [...items];
         currentShowingItems
             .randomize()
+            .filter(i => filterList.length === 0 ? true : filterList.includes(i.category))
+            .filter(i => i.name.includes(searchQuery))
             .forEach(i => {
             const it = document.createElement("div");
             it.className = "item-block";
@@ -81,7 +103,10 @@
 
             $(".category").append(li);
 
-            category.items.forEach(item => items.push(item));
+            category.items.forEach(item => {
+                item.category = category.id;
+                items.push(item)
+            });
         });
 
         currentShowingItems = items;
@@ -101,7 +126,10 @@
         xhr.send();
     };
 
+
     window.addEventListener("load", function () {
         reloadItems();
+
+        $(".search-box").addEventListener("change", searchCallback);
     });
 })();
