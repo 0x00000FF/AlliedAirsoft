@@ -59,6 +59,12 @@
             },
             {
                 "icon": null,
+                "name": "SIRIUS_A",
+                "url": "https://open.kakao.com/me/udambara",
+                "tags": [ "총기", "파츠", "광학" ]
+            },
+            {
+                "icon": null,
                 "name": "PINKBOZI",
                 "url": "https://open.kakao.com/me/PINKARCA",
                 "tags": [ "총기", "파츠", "광학", "오리" ]
@@ -71,7 +77,7 @@
             },
             {
                 "icon": null,
-                "name": "WARSAW ARMORY",
+                "name": "DIMA(WARSAW ARMORY)",
                 "url": "https://smartstore.naver.com/warsawarmory",
                 "tags": ["군장", "야시장비", "동구권", "오리"]
             },
@@ -122,7 +128,55 @@
                 "name": "뱀병장 인더스트리",
                 "url": "https://smartstore.naver.com/solidsnake",
                 "tags": [ "파츠", "공임" ]
-            }
+            },
+            {
+                "icon": "https://shop-phinf.pstatic.net/20220430_139/16512527357770mSl3_JPEG/52388515500467662_1756381186.jpg?type=m120",
+                "name": "택티컬 스토리",
+                "url": "https://smartstore.naver.com/tacticalstory",
+                "tags": [ "파츠" ]
+            },
+            {
+                "icon": null,
+                "name": "정킴",
+                "url": "https://open.kakao.com/o/sK11r1Pd",
+                "tags": [ "세라코트", "공임" ]
+            },
+            {
+                "icon": "https://shop-phinf.pstatic.net/20221018_83/1666101881043ia3XD_PNG/67237714806521023_59529525.png?type=m120",
+                "name": "하비더라이프",
+                "url": "https://smartstore.naver.com/hobbythelife",
+                "tags": [ "파츠", "광학" ]
+            },
+            {
+                "icon": null,
+                "name": "삼디맨",
+                "url": "https://smartstore.naver.com/hobbythelife",
+                "tags": [ "야간투시경", "챈투경" ]
+            },
+            {
+                "icon": "https://shop-phinf.pstatic.net/20220323_163/1647999290868Mmxri_JPEG/49135124681604513_35352589.jpg?type=m120",
+                "name": "에이전트K (에어소프트 보급소)",
+                "url": "https://smartstore.naver.com/airsoftsupply",
+                "tags": [ "소모품" ]
+            },
+            {
+                "icon": "https://gunmallkorea.com/web/upload/category/logo/v2_7931fcf2a4d32a1db003f869eba3fcca_bqSa0elxx_top.jpg",
+                "name": "GMK건몰코리아",
+                "url": "https://gunmallkorea.com",
+                "tags": [ "파츠", "군장", "소모품" ]
+            },
+            {
+                "icon": "https://shop-phinf.pstatic.net/20221023_224/16665315922687CYCM_JPEG/67667426085198675_455600080.jpg?type=m120",
+                "name": "직구대",
+                "url": "https://smartstore.naver.com/morphai",
+                "tags": [ "파츠", "소모품", "옵션" ]
+            },
+            {
+                "icon": null,
+                "name": "닛시아이템",
+                "url": "https://smartstore.naver.com/nissie",
+                "tags": [ "총기", "완구" ]
+            },
         ]
     },
     {
@@ -158,7 +212,19 @@
                 "name": "코만도",
                 "url": "https://www.instagram.com/kommando_park/",
                 "tags": [ "필드", "대전" ]
-            }
+            },
+            {
+                "icon": null,
+                "name": "우파루파",
+                "url": "https://arca.live/b/airsoft2077/54627749",
+                "tags": [ "파킨", "전주" ]
+            },
+            {
+                "icon": null,
+                "name": "건덕",
+                "url": "https://www.instagram.com/gunduck_official/",
+                "tags": [ "파킨", "서울", "동대문구" ]
+            },
         ]
     },
     {
