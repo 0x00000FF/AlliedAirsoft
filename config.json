@@ -247,7 +247,13 @@
                 "icon": "https://ast-gun.airsofttaiwan.com/catalog/view/theme/site1/img/logo.png",
                 "name": "Airsoft Taiwan (AST)",
                 "url": "https://ast-gun.airsofttaiwan.com/",
-                "tags": ["대만"]
+                "tags": ["대만", "RA-Tech"]
+            },
+            {
+                "icon": "https://samoon.com.tw/image/data/logo.png",
+                "name": "Samoon",
+                "url": "https://samoon.com.tw",
+                "tags": ["대만", "GHK"]
             },
             {
                 "icon": "https://orga-airsoft.com/user_data/packages/20121210/img/common/logo.gif",
@@ -268,9 +274,21 @@
                 "tags": ["홍콩"]
             },
             {
-                "icon": "https://scontent.ficn2-2.fna.fbcdn.net/v/t1.6435-9/117110674_630975550881070_977298623269787242_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dc12JcWJO_gAX93R2id&_nc_ht=scontent.ficn2-2.fna&oh=00_AT-Kn6KhuiC9lWo7_e7da8UnpdwOYg_fQS8Jkgw0huyVAg&oe=627170E0",
+                "icon": null,
                 "name": "RedWin Optics",
-                "url": "https://ko.aliexpress.com/store/910369058",
+                "url": "https://www.aliexpress.com/store/910369058",
+                "tags": ["중국", "광학"]
+            },
+            {
+                "icon": null,
+                "name": "Altima Hunting Optics",
+                "url": "https://www.aliexpress.com/store/1101805628",
+                "tags": ["중국", "광학"]
+            },
+            {
+                "icon": null,
+                "name": "Vector Optics",
+                "url": "https://www.aliexpress.com/store/1100393810",
                 "tags": ["중국", "광학"]
             },
             {
