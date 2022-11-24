@@ -295,7 +295,19 @@
                 "icon": "https://media-cdn.redwolfairsoft.com/logo/stores/1/Asset_1_2x_1.png",
                 "name": "Redwolf Airsoft",
                 "url": "https://www.redwolfairsoft.com",
+                "tags": ["홍콩"]
+            },
+            {
+                "icon": "https://www.evike.com/images3/logo-evike.png",
+                "name": "EVIKE.COM",
+                "url": "https://www.evike.com",
                 "tags": ["미국"]
+            },
+            {
+                "icon": "https://www.brownells.com",
+                "name": "Brownells",
+                "url": "https://cdn-fsly.yottaa.net/53ff2f503c881650e20004c9/www.brownells.com/v~4b.11f/images/logoLg.png?yocs=p_",
+                "tags": ["미국", "오리"]
             }
             
         ]
