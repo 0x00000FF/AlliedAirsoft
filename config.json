@@ -224,6 +224,12 @@
                 "name": "건덕",
                 "url": "https://www.instagram.com/gunduck_official/",
                 "tags": [ "파킨", "서울", "동대문구" ]
+            },
+            {
+                "icon": null,
+                "name": "레디오어낫",
+                "url": "https://cafe.naver.com/readyornot",
+                "tags": [ "파주" ]
             }
         ]
     },
