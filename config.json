@@ -188,56 +188,74 @@
                 "name": "브이텍레인지",
                 "url": "https://www.instagram.com/vtac_range/",
                 "tags": [ "파킨", "대전" ],
-                "detail": {}
+                "location": {}
             },
             {
                 "icon": null,
                 "name": "THEBASE",
                 "url": "https://cafe.naver.com/thebaseairsoft",
                 "tags": [ "필드", "김포" ],
-                "detail": {}
+                "location": {}
             },
             {
                 "icon": null,
                 "name": "CAMP DELTA",
                 "url": "https://www.instagram.com/camp.delta_korea/",
                 "tags": [ "필드", "대전" ],
-                "detail": {}
+                "location": {
+                    "coord": [ 0, 0 ],
+                    "address": ""
+                }
             },
             {
                 "icon": null,
                 "name": "태풍필드",
                 "url": "https://cafe.naver.com/typoon7740",
                 "tags": [ "필드", "광양" ],
-                "detail": {}
+                "location": {
+                    "coord": [ 0, 0 ],
+                    "address": ""
+                }
             },
             {
                 "icon": null,
                 "name": "코만도",
                 "url": "https://www.instagram.com/kommando_park/",
                 "tags": [ "필드", "대전" ],
-                "detail": {}
+                "location": {
+                    "coord": [ 0, 0 ],
+                    "address": ""
+                }
             },
             {
                 "icon": null,
                 "name": "우파루파",
                 "url": "https://arca.live/b/airsoft2077/54627749",
                 "tags": [ "파킨", "전주" ],
-                "detail": {}
+                "location": {
+                    "coord": [ 0, 0 ],
+                    "address": ""
+                }
             },
             {
                 "icon": null,
                 "name": "건덕",
                 "url": "https://www.instagram.com/gunduck_official/",
                 "tags": [ "파킨", "서울", "동대문구" ],
-                "detail": {}
+                "location": {
+                    "coord": [ 0, 0 ],
+                    "address": ""
+                }
             },
             {
                 "icon": null,
                 "name": "레디오어낫",
                 "url": "https://cafe.naver.com/readyornot",
                 "tags": [ "파주" ],
-                "detail": {}
+                "location": {
+                    "coord": [ 0, 0 ],
+                    "address": ""
+                }
             }
         ]
     },
