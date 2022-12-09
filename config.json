@@ -176,6 +176,12 @@
                 "name": "닛시아이템",
                 "url": "https://smartstore.naver.com/nissie",
                 "tags": [ "총기", "완구", "다스" ]
+            },
+            {
+                "icon": "https://shop-phinf.pstatic.net/20210324_114/1616574978637MFQPm_JPEG/17710762343308835_561556300.jpg?type=m120",
+                "name": "블랙옵스",
+                "url": "https://smartstore.naver.com/blackops",
+                "tags": [ "총기", "커스텀" ]
             }
         ]
     },
